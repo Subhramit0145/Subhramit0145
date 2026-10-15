@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ## About
 
-**B.Tech student at ABV-IIITM Gwalior** (2023 – 2027 · CGPA: 8.62) with summer research background in semiconductor physics at **IIT (BHU) Varanasi** and **IISc CeNSE** distinction.
+**B.Tech student at IIIT Gwalior**  with summer research background in semiconductor physics.
 
 I engineer at the intersection of **autonomous AI agents, state machine retrieval systems, and high-performance compute architectures**. While many view AI exclusively through high-level API wrappers, my foundation in digital electronics and processor design gives me a deep intuition for memory bandwidth, cache hierarchies, latency bottlenecks, and hardware compute tradeoffs.
 
